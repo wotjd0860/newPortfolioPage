@@ -1,2 +1,2 @@
 # newPortfolioPage
-New portfolio page from template
+New portfolio page from free template
